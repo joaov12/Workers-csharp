@@ -1,0 +1,14 @@
+C:\Users\João Vitor\Documents\code_csharp\workerum\bin\Debug\net7.0\WorkerUM.exe
+C:\Users\João Vitor\Documents\code_csharp\workerum\bin\Debug\net7.0\WorkerUM.deps.json
+C:\Users\João Vitor\Documents\code_csharp\workerum\bin\Debug\net7.0\WorkerUM.runtimeconfig.json
+C:\Users\João Vitor\Documents\code_csharp\workerum\bin\Debug\net7.0\WorkerUM.dll
+C:\Users\João Vitor\Documents\code_csharp\workerum\bin\Debug\net7.0\WorkerUM.pdb
+C:\Users\João Vitor\Documents\code_csharp\workerum\obj\Debug\net7.0\WorkerUM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João Vitor\Documents\code_csharp\workerum\obj\Debug\net7.0\WorkerUM.AssemblyInfoInputs.cache
+C:\Users\João Vitor\Documents\code_csharp\workerum\obj\Debug\net7.0\WorkerUM.AssemblyInfo.cs
+C:\Users\João Vitor\Documents\code_csharp\workerum\obj\Debug\net7.0\WorkerUM.csproj.CoreCompileInputs.cache
+C:\Users\João Vitor\Documents\code_csharp\workerum\obj\Debug\net7.0\WorkerUM.dll
+C:\Users\João Vitor\Documents\code_csharp\workerum\obj\Debug\net7.0\refint\WorkerUM.dll
+C:\Users\João Vitor\Documents\code_csharp\workerum\obj\Debug\net7.0\WorkerUM.pdb
+C:\Users\João Vitor\Documents\code_csharp\workerum\obj\Debug\net7.0\WorkerUM.genruntimeconfig.cache
+C:\Users\João Vitor\Documents\code_csharp\workerum\obj\Debug\net7.0\ref\WorkerUM.dll
